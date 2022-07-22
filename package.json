@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-homepage",
+  "version": "1.0.0",
+  "description": "Using webpack to dynamically create a restaurant homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macl1214/restaurant-homepage.git"
+  },
+  "author": "Miguel Cubas Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macl1214/restaurant-homepage/issues"
+  },
+  "homepage": "https://github.com/macl1214/restaurant-homepage#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
